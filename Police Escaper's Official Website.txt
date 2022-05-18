@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1>Welcome to Police Escaper's official website</h1>
+<h1>Welcome to Police Escaper's official website</h1>   
 
 
 </body>
@@ -29,7 +29,16 @@
  <br>
  <br>
  <br>
-           <a href="https://xristos0162841.itch.io/police-escaper">Download the game</a> or <a href="https://www.newgrounds.com/portal/view/835869">Play it on your web browser as HTML5</a><img src="main_guy3.png" alt="MainCharacter">              
+           <a href="https://xristos0162841.itch.io/police-escaper">Download the game</a> or <a href="https://www.newgrounds.com/portal/view/835869">Play it on your web browser as HTML5</a><img src="main_guy3.png" alt="MainCharacter">      
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+A Game Made By <a href="https://comraeddie.newgrounds.com/">ComradeEddie</a> And <a href="https://xristos.newgrounds.com">Xristos</a><img src="main_guy3.png" alt="MainCharacter">  
 
 
-
+ 
